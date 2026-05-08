@@ -1,6 +1,6 @@
 # Chinese Holidays Checker
 
-[![Build Status](https://github.com/your-username/chinese-holidays/actions/workflows/tests.yml/badge.svg)](https://github.com/your-username/chinese-holidays/actions)
+[![Build Status](https://github.com/arreow/chinese-holidays/actions/workflows/tests.yml/badge.svg)](https://github.com/arreow/chinese-holidays/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 一个专业的 PHP 库，用于准确判断中国法定节假日、工作日及日常周末。
