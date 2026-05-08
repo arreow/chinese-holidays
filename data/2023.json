@@ -9,8 +9,56 @@
             "name": "元旦",
             "isOffDay": true
         },
-        "01-03": {
-            "name": "元旦",
+        "01-21": {
+            "name": "春节",
+            "isOffDay": true
+        },
+        "01-22": {
+            "name": "春节",
+            "isOffDay": true
+        },
+        "01-23": {
+            "name": "春节",
+            "isOffDay": true
+        },
+        "01-24": {
+            "name": "春节",
+            "isOffDay": true
+        },
+        "01-25": {
+            "name": "春节",
+            "isOffDay": true
+        },
+        "01-26": {
+            "name": "春节",
+            "isOffDay": true
+        },
+        "01-27": {
+            "name": "春节",
+            "isOffDay": true
+        },
+        "01-28": {
+            "name": "春节调休",
+            "isOffDay": false
+        },
+        "01-29": {
+            "name": "春节调休",
+            "isOffDay": false
+        },
+        "04-05": {
+            "name": "清明节",
+            "isOffDay": true
+        },
+        "04-23": {
+            "name": "劳动节调休",
+            "isOffDay": false
+        },
+        "04-29": {
+            "name": "劳动节",
+            "isOffDay": true
+        },
+        "04-30": {
+            "name": "劳动节",
             "isOffDay": true
         },
         "05-01": {
@@ -25,40 +73,64 @@
             "name": "劳动节",
             "isOffDay": true
         },
-        "04-28": {
+        "05-06": {
             "name": "劳动节调休",
             "isOffDay": false
         },
+        "06-22": {
+            "name": "端午节",
+            "isOffDay": true
+        },
+        "06-23": {
+            "name": "端午节",
+            "isOffDay": true
+        },
+        "06-24": {
+            "name": "端午节",
+            "isOffDay": true
+        },
+        "06-25": {
+            "name": "端午节调休",
+            "isOffDay": false
+        },
+        "09-29": {
+            "name": "中秋节、国庆节",
+            "isOffDay": true
+        },
+        "09-30": {
+            "name": "中秋节、国庆节",
+            "isOffDay": true
+        },
         "10-01": {
-            "name": "国庆节",
+            "name": "中秋节、国庆节",
             "isOffDay": true
         },
         "10-02": {
-            "name": "国庆节",
+            "name": "中秋节、国庆节",
             "isOffDay": true
         },
         "10-03": {
-            "name": "国庆节",
+            "name": "中秋节、国庆节",
             "isOffDay": true
         },
         "10-04": {
-            "name": "国庆节",
+            "name": "中秋节、国庆节",
             "isOffDay": true
         },
         "10-05": {
-            "name": "国庆节",
+            "name": "中秋节、国庆节",
             "isOffDay": true
         },
         "10-06": {
-            "name": "国庆节",
+            "name": "中秋节、国庆节",
             "isOffDay": true
         },
         "10-07": {
-            "name": "国庆节",
-            "isOffDay": true
+            "name": "中秋节、国庆节调休",
+            "isOffDay": false
         },
-        "10-12": {
-            "name": "国庆节调休",
+        "10-08": {
+            "name": "中秋节、国庆节调休",
             "isOffDay": false
         }
     }
