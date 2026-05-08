@@ -13,6 +13,66 @@
             "name": "元旦",
             "isOffDay": true
         },
+        "01-04": {
+            "name": "元旦调休",
+            "isOffDay": false
+        },
+        "02-14": {
+            "name": "春节调休",
+            "isOffDay": false
+        },
+        "02-15": {
+            "name": "春节",
+            "isOffDay": true
+        },
+        "02-16": {
+            "name": "春节",
+            "isOffDay": true
+        },
+        "02-17": {
+            "name": "春节",
+            "isOffDay": true
+        },
+        "02-18": {
+            "name": "春节",
+            "isOffDay": true
+        },
+        "02-19": {
+            "name": "春节",
+            "isOffDay": true
+        },
+        "02-20": {
+            "name": "春节",
+            "isOffDay": true
+        },
+        "02-21": {
+            "name": "春节",
+            "isOffDay": true
+        },
+        "02-22": {
+            "name": "春节",
+            "isOffDay": true
+        },
+        "02-23": {
+            "name": "春节",
+            "isOffDay": true
+        },
+        "02-28": {
+            "name": "春节调休",
+            "isOffDay": false
+        },
+        "04-04": {
+            "name": "清明节",
+            "isOffDay": true
+        },
+        "04-05": {
+            "name": "清明节",
+            "isOffDay": true
+        },
+        "04-06": {
+            "name": "清明节",
+            "isOffDay": true
+        },
         "05-01": {
             "name": "劳动节",
             "isOffDay": true
@@ -25,9 +85,45 @@
             "name": "劳动节",
             "isOffDay": true
         },
-        "04-28": {
+        "05-04": {
+            "name": "劳动节",
+            "isOffDay": true
+        },
+        "05-05": {
+            "name": "劳动节",
+            "isOffDay": true
+        },
+        "05-09": {
             "name": "劳动节调休",
             "isOffDay": false
+        },
+        "06-19": {
+            "name": "端午节",
+            "isOffDay": true
+        },
+        "06-20": {
+            "name": "端午节",
+            "isOffDay": true
+        },
+        "06-21": {
+            "name": "端午节",
+            "isOffDay": true
+        },
+        "09-20": {
+            "name": "国庆节调休",
+            "isOffDay": false
+        },
+        "09-25": {
+            "name": "中秋节",
+            "isOffDay": true
+        },
+        "09-26": {
+            "name": "中秋节",
+            "isOffDay": true
+        },
+        "09-27": {
+            "name": "中秋节",
+            "isOffDay": true
         },
         "10-01": {
             "name": "国庆节",
@@ -57,7 +153,7 @@
             "name": "国庆节",
             "isOffDay": true
         },
-        "10-12": {
+        "10-10": {
             "name": "国庆节调休",
             "isOffDay": false
         }
