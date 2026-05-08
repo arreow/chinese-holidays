@@ -1,0 +1,65 @@
+{
+    "year": 2021,
+    "days": {
+        "01-01": {
+            "name": "元旦",
+            "isOffDay": true
+        },
+        "01-02": {
+            "name": "元旦",
+            "isOffDay": true
+        },
+        "01-03": {
+            "name": "元旦",
+            "isOffDay": true
+        },
+        "05-01": {
+            "name": "劳动节",
+            "isOffDay": true
+        },
+        "05-02": {
+            "name": "劳动节",
+            "isOffDay": true
+        },
+        "05-03": {
+            "name": "劳动节",
+            "isOffDay": true
+        },
+        "04-28": {
+            "name": "劳动节调休",
+            "isOffDay": false
+        },
+        "10-01": {
+            "name": "国庆节",
+            "isOffDay": true
+        },
+        "10-02": {
+            "name": "国庆节",
+            "isOffDay": true
+        },
+        "10-03": {
+            "name": "国庆节",
+            "isOffDay": true
+        },
+        "10-04": {
+            "name": "国庆节",
+            "isOffDay": true
+        },
+        "10-05": {
+            "name": "国庆节",
+            "isOffDay": true
+        },
+        "10-06": {
+            "name": "国庆节",
+            "isOffDay": true
+        },
+        "10-07": {
+            "name": "国庆节",
+            "isOffDay": true
+        },
+        "10-12": {
+            "name": "国庆节调休",
+            "isOffDay": false
+        }
+    }
+}

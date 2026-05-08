@@ -1,0 +1,32 @@
+{
+    "name": "chinese-holidays/holiday-checker",
+    "description": "A professional PHP library to determine Chinese statutory holidays, working days, and weekends.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Developer",
+            "email": "developer@example.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4",
+        "ext-json": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "ChineseHolidays\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "ChineseHolidays\\Tests\\": "tests/"
+        }
+    },
+    "scripts": {
+        "test": "phpunit"
+    }
+}
